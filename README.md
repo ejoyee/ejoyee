@@ -1,5 +1,7 @@
 ## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ejoy_1016)](https://solved.ac/ejoy_1016/)
 
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!-- [![ejoyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejoyee)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
